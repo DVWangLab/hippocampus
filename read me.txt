@@ -1,0 +1,6 @@
+step 1: load('ripple sample data.mat')
+step 2: Ripple_envelope_onset_offset_peak_amplitude.m
+
+% tested on Windows 11
+% tested on MATLAB R2021a 
+% expected run time ~1 s
